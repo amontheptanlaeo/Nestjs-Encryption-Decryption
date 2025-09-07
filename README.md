@@ -18,8 +18,9 @@ To start this project run
 
 ## Run Project
 
-To run this project run
-
+To run this project you must create .env and fill data like .env.template
+and
+then run
 ```bash
   npm run start
 ```
